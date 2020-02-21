@@ -47,7 +47,7 @@
       <ul class="products">
         <li>
           <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
-          <h3 class="product-name">AeroPress Coffee Maker</h3>
+          <h3 class="product-name">Community de Test - Connected Page</h3>
           <div class="product-button"><a id="aero_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
         </li>
         <li>
@@ -159,7 +159,7 @@
 		var aero = document.getElementById("aero_link");
 		//aero.href = "/datasheets/AeroPress-Instr-English-Rev.-D2.pdf";
 		aero.href = "https://devdce-glevents.cs84.force.com/PVIdentityTest/ConnectedPage";
-		aero.innerHTML = 'PV Community - PE';
+		aero.innerHTML = 'Afficher';
 
 		var reactor = document.getElementById("reactor_link");
 		reactor.href = "/datasheets/Reactor_StovInst_EURO_EN.pdf";
