@@ -158,7 +158,7 @@
 		// When logged in
 		var aero = document.getElementById("aero_link");
 		//aero.href = "/datasheets/AeroPress-Instr-English-Rev.-D2.pdf";
-		aero.href = "https://devdce-glevents.cs84.force.com/PV/s/?codeEdition=RNY01";
+		aero.href = "https://devdce-glevents.cs84.force.com/PVIdentityTest/ConnectedPage";
 		aero.innerHTML = 'PV Community - PE';
 
 		var reactor = document.getElementById("reactor_link");
